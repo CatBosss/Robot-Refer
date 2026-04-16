@@ -56,4 +56,9 @@
 - **[MotionMillion Dataset (Hugging Face)](https://huggingface.co/datasets/InternRobotics/MotionMillion)**:
     
     由 InternRobotics 发布的**百万级机器人运动数据集**。这是目前业内领先的大规模数据集，涵盖了丰富的动作序列，旨在支持开发如同 GPT 之于文字一样的“机器人动作大模型”。
+
+### 5. 阿里魔塔
+
+- **[ModelScope Datasets (魔搭社区数据集)](https://modelscope.cn/datasets)**:
     
+    这是由阿里巴巴（通义实验室）主导的开源模型社区 **ModelScope** 的数据集板块。它类似于“中国版的 Hugging Face”，提供了涵盖**计算机视觉、自然语言处理、语音识别以及多模态**等领域的海量训练数据集。对于机器人开发者而言，这里可以找到许多针对中文环境优化的视觉识别、语音交互以及特定工业/医疗场景的数据资源，方便开发者进行模型微调（Fine-tuning）。
